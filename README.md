@@ -3,7 +3,7 @@
 An interactive Sales Analysis Dashboard built using Microsoft Excel to analyze sales performance, profitability, customers, products, regions, and geographic trends.
 
 ## 📌 Project Overview
-
+![Dashboard Preview](dashboard_preview.png)
 This project transforms sales data into an interactive dashboard that provides a clear overview of business performance and helps identify important sales and profitability trends.
 
 ## 🛠️ Tools Used
